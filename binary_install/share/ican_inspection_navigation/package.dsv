@@ -1,0 +1,12 @@
+source;share/ican_inspection_navigation/hook/cmake_prefix_path.ps1
+source;share/ican_inspection_navigation/hook/cmake_prefix_path.dsv
+source;share/ican_inspection_navigation/hook/cmake_prefix_path.sh
+source;share/ican_inspection_navigation/hook/ld_library_path_lib.ps1
+source;share/ican_inspection_navigation/hook/ld_library_path_lib.dsv
+source;share/ican_inspection_navigation/hook/ld_library_path_lib.sh
+source;share/ican_inspection_navigation/hook/pythonpath.ps1
+source;share/ican_inspection_navigation/hook/pythonpath.dsv
+source;share/ican_inspection_navigation/hook/pythonpath.sh
+source;share/ican_inspection_navigation/hook/ament_prefix_path.ps1
+source;share/ican_inspection_navigation/hook/ament_prefix_path.dsv
+source;share/ican_inspection_navigation/hook/ament_prefix_path.sh

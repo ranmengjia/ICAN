@@ -1,0 +1,66 @@
+material InspectionGround
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ican_ground.png
+      }
+    }
+  }
+}
+
+material InspectionSticker
+{
+  technique { pass { ambient 0.65 1.0 0.05 1 diffuse 0.65 1.0 0.05 1 } }
+}
+
+material InspectionGroundMarker1
+{
+  technique { pass { ambient 0.72 0.72 0.72 1 diffuse 0.72 0.72 0.72 1 } }
+}
+
+material InspectionGroundMarker2
+{
+  technique { pass { ambient 0.72 0.72 0.72 1 diffuse 0.72 0.72 0.72 1 } }
+}
+
+material InspectionGroundMarker3
+{
+  technique { pass { ambient 0.72 0.72 0.72 1 diffuse 0.72 0.72 0.72 1 } }
+}
+
+material InspectionWindowTarget1
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture window_target_1.jpg
+      }
+    }
+  }
+}
+
+material InspectionWindowTarget2
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture window_target_2.jpg
+      }
+    }
+  }
+}
+
+material InspectionAerialTarget
+{
+  technique { pass { ambient 1.0 0.88 0.10 1 diffuse 1.0 0.88 0.10 1 } }
+}

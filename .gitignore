@@ -1,0 +1,36 @@
+# ROS 2 / colcon 构建产物
+build/
+install/
+log/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Python 打包
+*.egg-info/
+*.egg
+.eggs/
+dist/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# ROS 2 特定
+COLCON_IGNORE
+.colcon_install_layout
